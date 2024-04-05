@@ -1,4 +1,5 @@
 .contador{
+    background-color: blueviolet;
     min-width: 300px;
     height: 300px;
     font-size: 160px;
@@ -7,6 +8,8 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    border-radius: 35px;
     border: 8px solid white;
     margin-bottom: 15px;
+
 }
